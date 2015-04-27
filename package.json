@@ -1,7 +1,9 @@
 {
   "name": "caterme",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "firebase": "^2.2.4"
+  },
   "repository": {},
   "devDependencies": {
     "grunt": "^0.4.5",
